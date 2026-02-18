@@ -46,6 +46,13 @@ API 문서: `http://localhost:8000/docs`
 
 ---
 
+## 문서
+
+- [PM 코드구조 학습가이드](docs/PM_코드구조_학습가이드.md) – 비전공자 PM용 폴더/도메인/이벤트 로그 구조 설명
+- [토큰 사용량](docs/TOKEN_USAGE.md) – LLM 토큰 사용량 및 설정
+
+---
+
 ## LLM 전환 방법
 
 `.env` 파일의 `LLM_PROVIDER` 값만 변경하면 됩니다. 코드 수정 불필요.
